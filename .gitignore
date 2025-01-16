@@ -1,0 +1,24 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.settings/
+.classpath
+.project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.swp
+*.swo 
